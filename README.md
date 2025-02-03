@@ -74,3 +74,4 @@ Improve UI with animations
 Connect to a backend using Node.js
  License
 This project is for learning purposes, feel free to use and modify.
+
